@@ -1,4 +1,4 @@
-# SALES-DATASET-ANALYSIS-ADVANCED-EXCEL-
+# SALES-DATASET-ANALYSIS-ADVANCED-EXCEL
 
     The Superstores Sales Dataset contains 9,994 records and 21 columns, capturing details about sales transactions, including order details, customer information, product categories, and financial metrics. The dataset spans multiple years and regions, offering insights into business performance.
 
